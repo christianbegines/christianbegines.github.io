@@ -1,0 +1,13 @@
+.img{
+    max-width: 30% !important;
+}
+.img--s{
+     max-width: 15% !important;
+}
+
+.heigth-600{
+    height: 600px !important;
+}
+.bg-white{
+    background-color: white !important;
+}
